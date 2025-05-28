@@ -1,4 +1,4 @@
-# To-do lista w Pythonie — mój projekt
+# To-do lista w Pythonie
 
 To jest prosty program terminalowy do zarządzania listą zadań (To-do)
 
