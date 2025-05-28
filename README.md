@@ -1,6 +1,6 @@
 # To-do lista w Pythonie — mój projekt
 
-To jest prosty program terminalowy do zarządzania listą zadań (To-do), który napisałem, aby poćwiczyć Pythona i dobre praktyki programistyczne.
+To jest prosty program terminalowy do zarządzania listą zadań (To-do)
 
 ---
 
