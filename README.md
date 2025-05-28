@@ -18,12 +18,15 @@ To jest prosty program terminalowy do zarządzania listą zadań (To-do)
 ## Przykładowe działanie 
 
 *Lista zadań z podziałem na status i priorytet*
+
 ![Lista zadań](screenshots/tasks.png)  
 
 *Ekran dodawania nowego zadania z wyborem priorytetu*
+
 ![Edycja zadania](screenshots/history.png)  
 
 *Ekran wyświetlania historii zadań*
+
 ![Historia zadań](screenshots/history.png)  
 
 ---
