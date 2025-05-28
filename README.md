@@ -17,7 +17,7 @@ To jest prosty program terminalowy do zarządzania listą zadań (To-do)
 
 ## Przykładowe działanie 
 
-*Wyświetlenie zadań"
+*Wyświetlenie zadań*
 
 ![Lista zadań](screenshots/tasks.png)  
 
